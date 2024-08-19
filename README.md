@@ -25,6 +25,21 @@ Tools and Technologies:
 En utilisant HTML - CSS - BOOTSTRAP -JAVASCRIPT - PHP
 
 Images :
+Tableau de bord :
+![image](https://github.com/user-attachments/assets/5d85737b-6cba-44d9-bb03-d827374dd0a0)
+Liste Etablissement :
+![image](https://github.com/user-attachments/assets/6c642b41-982c-4f84-a9e8-a64ea569d3c6)
+Ajouter Etablissement:
+![image](https://github.com/user-attachments/assets/136cdefc-2a8c-410f-a183-4a75df22b396)
+Liste Materiel :
+![image](https://github.com/user-attachments/assets/9fd3f0d5-d9eb-456e-9473-1d8e6ce58e58)
+Ajouter Materiel:
+![image](https://github.com/user-attachments/assets/a5f499b7-080b-4bfe-9fc3-1fc2c9d46a08)
+Liste Rencensement:
+![image](https://github.com/user-attachments/assets/74caf89a-f341-4f31-b729-a95d827eec35)
+Fiche Rencensement :
+![image](https://github.com/user-attachments/assets/e0b05e1d-2010-4b53-b12a-2d0f347d2bf3)
 
-![image](https://github.com/user-attachments/assets/c2328117-cc8f-403e-a743-5811c169b4b2)
+
+
 
