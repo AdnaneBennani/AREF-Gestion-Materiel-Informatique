@@ -31,6 +31,8 @@ Liste Etablissement :
 ![image](https://github.com/user-attachments/assets/6c642b41-982c-4f84-a9e8-a64ea569d3c6)
 Ajouter Etablissement:
 ![image](https://github.com/user-attachments/assets/136cdefc-2a8c-410f-a183-4a75df22b396)
+Statistique :
+![image](https://github.com/user-attachments/assets/719489d7-a5ea-490d-9ceb-dc9ad7add035)
 Liste Materiel :
 ![image](https://github.com/user-attachments/assets/9fd3f0d5-d9eb-456e-9473-1d8e6ce58e58)
 Ajouter Materiel:
